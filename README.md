@@ -10,4 +10,4 @@ Webフロントエンドが中心です
 ---
 
 ### What I'm Doing
-- HTML / CSS / JavaScript / TypeScript を用いたWebサイト・アプリ制作
+HTML / CSS / JavaScript / TypeScript を用いたWebサイト・アプリ制作など
