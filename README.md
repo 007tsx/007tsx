@@ -1,4 +1,4 @@
-# tarapon!
+# tarapon
 
 Webフロントエンドが中心です
 
